@@ -4,6 +4,7 @@
     <test name="Firt My Test">
         <classes>
             <class name="org.BelajarTesNG.CalculatorTest" />
+            <class name="org.BelajarTesNG.ATMTest" />
         </classes>
     </test>
 </suite>
